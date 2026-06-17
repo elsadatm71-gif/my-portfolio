@@ -1,0 +1,89 @@
+# Site settings
+title: "Zeyad - Mechatronics Engineer"
+description: "a profile for all of my projects and achivment"
+url: "https://JumpedMocha3.github.io"
+baseurl: "/portfolio"
+author: "Zeyad Belal"
+email: "ziad5203@gmail.com"
+github_username: "JumpedMocha3"
+linkedin_username: "ziad belal"
+twitter_username: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - LICENSE
+
+# Site navigation
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "About"
+    url: "/about/"
+
+# Project categories
+project_categories:
+  - name: "Robotics"
+    slug: "robotics"
+    description: "Autonomous robots and robotic systems"
+  - name: "Mechatronics"
+    slug: "mechatronics"
+    description: "Integration of mechanical, electrical, and software systems"
+  - name: "Arduino"
+    slug: "arduino"
+    description: "Arduino-based projects and prototypes"
+  - name: "3D Printing"
+    slug: "3d-printing"
+    description: "Custom 3D printed components and designs"
+  - name: "IoT"
+    slug: "iot"
+    description: "Internet of Things devices and applications"
+
+# 3D Model settings
+models:
+  supported_formats: ["stl", "obj", "gltf", "glb"]
+  default_background: "#f0f0f0"
+  camera_controls: true
+  auto_rotate: false
+
+# Schema settings
+schematics:
+  supported_formats: ["png", "jpg", "jpeg", "svg", "pdf"]
+  zoom_enabled: true
+  pan_enabled: true
