@@ -14,12 +14,10 @@ download_files:
 media:
     
   - file: "demo-video1.mp4"
-    title: "Project Demonstration"
+    title: "Project "
     description: "Servo movement demonstration."
 
  - file: "demo-video2.mp4"
     title: "Project Demonstration"
     description: "Servo movement demonstration."
-
-
 ---
