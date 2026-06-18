@@ -16,4 +16,8 @@ media:
   - file: "image2.jpeg"
     title: "Results"
     description: "Arduino live results for the sensor."
+ download_files:
+  - name: "Complete Source Code"
+    url: "/assets/projects/project-name/source-code.zip"
+    description: "Project source code and documentation."   
 ---
