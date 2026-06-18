@@ -13,12 +13,11 @@ download_files:
     description: "Arduino source code for the servo motor project."
     
 media:
-
- - file: "demo-video1.mp4"
+  - file: "demo-video1.mp4"
     title: "Project Demonstration"
     description: "Servo movement demonstration."
 
-- file: "demo-video2.mp4"
+ - file: "demo-video2.mp4"
     title: "Project Demonstration"
     description: "Servo movement demonstration."
 
