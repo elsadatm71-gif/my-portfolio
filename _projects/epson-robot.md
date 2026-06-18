@@ -7,6 +7,7 @@ categories:
   - Robotics
   - Mechatronics
 project_folder: "epson-robot"
+featured_image: "/assets/projects/epson-robot/cover.png"
 
 media:
   - file: "cover.png"
