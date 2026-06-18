@@ -9,7 +9,7 @@ categories:
 project_folder: "epson-robot"
 featured_image: "/assets/projects/epson-robot/cover.png"
 models:
-  - file: "/assets/projects/epson-robot/epson-adapter.glb"
+  - file: "/assets/projects/epson-robot/epson-adapter.stl"
     description: "Custom Epson T3 Adapter"
 
   - file: "/assets/projects/epson-robot/gripper.glb"
