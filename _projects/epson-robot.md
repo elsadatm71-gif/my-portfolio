@@ -26,6 +26,10 @@ media:
   - file: "demo-video.mp4"
     title: "Project Demonstration"
     description: "Full autonomous cargo storing operation."
+    download_files:
+  - name: "Complete Source Code"
+    url: "/assets/projects/epson-robot/source-code.zip"
+    description: "Python, Epson RC+ and Arduino source code."
     
 ---
 
