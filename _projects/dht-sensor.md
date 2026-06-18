@@ -7,6 +7,10 @@ categories:
   - IoT
 
 project_folder: "DHT sensor"
+download_files:
+  - name: "Complete Source Code"
+    url: "/assets/projects/DHT sensor/source-code.zip"
+    description: "Arduino source code for the DHT sensor project."
 
 media:
   - file: "image1.jpeg"
