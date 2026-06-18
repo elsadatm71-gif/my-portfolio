@@ -16,8 +16,5 @@ media:
   - file: "image2.jpeg"
     title: "Results"
     description: "Arduino live results for the sensor."
- download_files:
-  - name: "Complete Source Code"
-    url: "/assets/projects/DHT sensor/source-code.zip"
-    description: "Arduino source code for the DHT sensor project."   
+  
 ---
