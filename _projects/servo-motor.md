@@ -8,7 +8,6 @@ categories:
 project_folder: "servo motor"
 
 media:
-
  - file: "demo-video1.mp4"
     title: "Project Demonstration"
     description: "Servo movement demonstration."
