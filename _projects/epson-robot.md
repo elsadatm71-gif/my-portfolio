@@ -11,8 +11,8 @@ featured_image: "/assets/projects/epson-robot/cover.png"
 
 media:
   - file: "cover.png"
-    title: "Final System"
-    description: "Complete Epson cargo storing robot system."
+    title: "The System"
+    description: "Epson cargo storing system."
 
   - file: "image1.jpeg"
     title: "Robot Setup"
@@ -25,7 +25,7 @@ media:
 
 ## Overview
 
-Autonomous cargo storing system using an Epson T3-401S SCARA robot and computer vision.
+Autonomous cargo storing system using an Epson T3-401S SCARA robot and an ESP-32 CAM as a computer vision.
 
 ## Features
 
@@ -33,3 +33,5 @@ Autonomous cargo storing system using an Epson T3-401S SCARA robot and computer 
 - Python communication
 - Automatic cargo storing
 - Real-time coordinate conversion
+- Customized 3d gripper
+- Arduino uno
