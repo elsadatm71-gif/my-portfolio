@@ -7,11 +7,11 @@ categories:
   - Arduino
   - Electronics
 project_folder: "ultrasonic sensor"
+
 download_files:
   - name: "Complete Source Code"
     url: "/assets/projects/ultrasonic sensor/source-code.zip"
     description: "Arduino source code for the ultrasonic sensor project."
-
 media:
   
 
