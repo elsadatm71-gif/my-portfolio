@@ -8,7 +8,12 @@ categories:
   - Mechatronics
 project_folder: "epson-robot"
 featured_image: "/assets/projects/epson-robot/cover.png"
+models:
+  - file: "/assets/projects/epson-robot/epson-adapter.glb"
+    description: "Custom Epson T3 Adapter"
 
+  - file: "/assets/projects/epson-robot/gripper.glb"
+    description: "3D Printed Servo Gripper"
 media:
   - file: "cover.png"
     title: "The System"
@@ -21,6 +26,7 @@ media:
   - file: "demo-video.mp4"
     title: "Project Demonstration"
     description: "Full autonomous cargo storing operation."
+    
 ---
 
 ## Overview
