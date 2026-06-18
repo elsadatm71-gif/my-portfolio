@@ -6,7 +6,6 @@ categories:
   - Arduino
   - Mechatronics
 project_folder: "servo motor"
-
 download_files:
   - name: "Complete Source Code"
     url: "/assets/projects/servo motor/source-code.zip"
