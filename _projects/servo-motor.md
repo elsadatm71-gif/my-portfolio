@@ -17,7 +17,7 @@ media:
     title: "Project Demonstration"
     description: "Servo movement demonstration."
 
- - file: "demo-video2.mp4"
+  - file: "demo-video2.mp4"
     title: "Project Demonstration"
     description: "Servo movement demonstration."
 
