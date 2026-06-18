@@ -19,7 +19,6 @@ media:
   - file: "cover.png"
     title: "The System"
     description: "Epson cargo storing system."
-  
    - file: "system-diagram.png"
     title: "System Architecture"
     description: "Overall system architecture."
