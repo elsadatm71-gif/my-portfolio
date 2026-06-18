@@ -18,9 +18,9 @@ media:
   - file: "cover.png"
     title: "The System"
     description: "Epson cargo storing system."
-    - file: "system-diagram.png"
+   - file: "system-diagram.png"
     title: "System Architecture"
-    description: "Overall system architecture showing ESP32-CAM, Python/OpenCV, Epson RC+, robot controller, gripper and storage locations."
+    description: "Overall system architecture."
 
   - file: "image1.jpeg"
     title: "Robot Setup"
