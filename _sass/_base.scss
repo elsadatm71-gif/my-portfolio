@@ -5,20 +5,26 @@
 
 /* CSS Custom Properties */
 :root {
-  /* Colors - Light Theme (Bright Blue) */
-  --primary-color: #1565c0;
-  --primary-dark: #0d47a1;
-  --secondary-color: #42a5f5;
+  --primary-color: #d4af37;
+  --primary-dark: #f4c542;
+  --secondary-color: #64748b;
   --accent-color: #d4af37;
-  /* Bright Sky Blue */
+
   --background-color: #0b1220;
   --surface-color: #111827;
+
   --text-primary: #ffffff;
-  --text-secondary: #94a3b8;
-  --text-muted: #607d8b;
+  --text-secondary: #cbd5e1;
+  --text-muted: #94a3b8;
+
   --border-color: #334155;
-  --shadow-color: rgba(21, 101, 192, 0.1);
-  --shadow-hover: rgba(21, 101, 192, 0.15);
+
+  --shadow-color: rgba(212, 175, 55, 0.18);
+  --shadow-hover: rgba(212, 175, 55, 0.28);
+
+  --code-bg: #0f172a;
+  --code-text: #e2e8f0;
+  --code-border: #334155;
 
   /* Colors - Semantic */
   --success-color: #2d3436;
