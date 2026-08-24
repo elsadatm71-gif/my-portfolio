@@ -24,7 +24,7 @@ media:
 
     - file: "demo.mp4"
       title: "Autonomous Driving System"
-    description: "Autonomous driving demonstration"
+    description: "Autonomous driving demonstration."
 ---
 ## Project Overview
 
