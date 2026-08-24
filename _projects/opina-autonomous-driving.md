@@ -22,10 +22,11 @@ media:
     title: "Camera Lane Detection"
     description: "Camera-based lane detection, road-edge recognition and stable centre-path generation."
 
-    - file: "demo.mp4"
-      title: "Autonomous Driving System"
+  - file: "demo.mp4"
+    title: "Autonomous Driving System"
     description: "Autonomous driving demonstration."
 ---
+
 ## Project Overview
 
 A modular autonomous-driving stack developed using ROS 2 Humble and CARLA, combining navigation, perception, vehicle control and safety systems.
