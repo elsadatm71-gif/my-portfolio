@@ -21,6 +21,10 @@ media:
   - file: "lane-detection.png"
     title: "Camera Lane Detection"
     description: "Camera-based lane detection, road-edge recognition and stable centre-path generation."
+
+    - file: "demo.mp4"
+      title: "Autonomous Driving System"
+    description: "Autonomous driving demonstration"
 ---
 ## Project Overview
 
